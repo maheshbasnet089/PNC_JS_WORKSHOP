@@ -54,9 +54,9 @@ var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday']
 // for loop for everything 
 // for of -- loop for array 
 
-for(let haha of days){
-    console.log(days)
-}
+// for(let haha of days){
+//     console.log(days)
+// }
 
 // for in -- loop for object 
 
@@ -99,3 +99,5 @@ for(let haha of days){
 // i=3 , 3 < 10 -T 
 // i =9 , 9 <10 T 
 // i = 10 , 10<10 -F 
+
+
